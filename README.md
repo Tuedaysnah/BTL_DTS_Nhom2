@@ -10,6 +10,11 @@
 
 > **Mô tả ngắn:** Thiết kế và mô phỏng mạch chạy LED nhấp nháy sử dụng phần mềm LogicWorks. Hệ thống được xây dựng dựa trên các nguyên lý logic số cơ bản, kết hợp giữa bộ tạo xung và các IC chức năng.
 
+### Chi tiết kỹ thuật:
+- **Nguyên lý hoạt động:** Mạch sử dụng một bộ tạo xung (Clock) làm nguồn tín hiệu cơ bản. Tín hiệu này được đưa qua các tầng đếm (Counter) để tạo ra các trạng thái logic thay đổi theo thời gian.
+- **Giải mã & Hiển thị:** Các trạng thái từ bộ đếm được đưa qua khối giải mã (Decoder) để điều khiển dãy đèn LED, tạo hiệu ứng nhấp nháy hoặc chạy theo trình tự mong muốn.
+- **Linh kiện mô phỏng:** Sử dụng các IC chuẩn 74LS series (như 74LS90, 74LS138) cùng với các cổng logic cơ bản (AND, OR, NOT) để tối ưu hóa sơ đồ.
+
 ---
 
 ## 🚀 Tính năng nổi bật
