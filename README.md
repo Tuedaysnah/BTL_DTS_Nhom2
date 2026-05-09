@@ -1,8 +1,8 @@
-# 💡 Bài Tập Lớn Môn Điện Tử Số - Nhóm 2
+# 💡 Mạch Điện Chạy Chữ & LED Nhấp Nháy - Bài Tập Lớn Điện Tử Số
 
 [![Subject](https://img.shields.io/badge/Môn_học-Điện_tử_số-blue.svg)](https://ptit.edu.vn)
 [![Tools](https://img.shields.io/badge/Công_cụ-LogicWorks_5%20%7C%20Proteus-orange.svg)]()
-[![Status](https://img.shields.io/badge/Trạng_thái-Hoàn_thành-green.svg)]()
+[![SEO](https://img.shields.io/badge/Keywords-Mạch_Chạy_Chữ_%7C_LED_Nhấp_Nháy-brightgreen.svg)]()
 
 ## 📝 Giới thiệu dự án
 
@@ -62,3 +62,7 @@ BTL_DTS_Nhom2/
 
 ---
 *© 2026 - Nhóm 2 - Bài Tập Lớn Điện Tử Số*
+
+---
+### 🔍 Metadata & SEO Tags
+**Keywords:** mạch điện chạy chữ, mạch led nhấp nháy, điện tử số ptit, btl điện tử số, logicworks scrolling text, flashing led circuit logicworks, thiết kế mạch số, mô phỏng mạch điện tử, 74LS90, 74LS138, mạch chạy chữ đơn giản.
