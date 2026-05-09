@@ -39,7 +39,9 @@
 ```text
 BTL_DTS_Nhom2/
 ├── Nhom2_BAOCAO_BTL_DTS_Thang5_2026.cct    # File thiết kế mạch (LogicWorks)
-└── Nhom2_BAOCAO_BTL_DTS_Thang5_2026.docx   # File báo cáo chi tiết (Word)
+├── Nhom2_BAOCAO_BTL_DTS_Thang5_2026.docx   # File báo cáo chi tiết (Word)
+├── LogicWorks 5(@tunganh46).rar            # Bộ cài đặt phần mềm LogicWorks 5
+└── README.md                               # Hướng dẫn và thông tin dự án
 ```
 
 ---
@@ -47,7 +49,7 @@ BTL_DTS_Nhom2/
 ## 📖 Hướng dẫn sử dụng
 
 1.  **Để xem mạch:** 
-    *   Cài đặt phần mềm **LogicWorks 5** hoặc phiên bản tương thích.
+    *   Sử dụng file cài đặt phần mềm **LogicWorks 5** có sẵn trong repository này (`LogicWorks 5(@tunganh46).rar`).
     *   Mở file `.cct` để xem sơ đồ và nhấn `Run` để bắt đầu mô phỏng.
 2.  **Để xem báo cáo:**
     *   Sử dụng **Microsoft Word** để mở file `.docx`.
